@@ -1,29 +1,20 @@
 # composition-api
 
-## Project setup
+```
+Vue Composition API энгийн жишээ DEMO 
+
+```
+## Install npm
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run serve
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Build for production
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
